@@ -9,7 +9,6 @@ Made with flutter. Imported--
 * Dart Library
 
 ## SCREENSHOT--
-![](https://github.com/AnanyaNegi/BMI-Calculator/blob/master/1.png)
 
 ## USAGE--
 To use the app on your device copy the git url of the repo. Open android studio on your device and select open project via link.Paste the git url and click ok.Run the android simulator.
